@@ -1,5 +1,5 @@
 - 👋 Heyy there, Mahi this side
-- 👀 I’m interested in open source (beginner)
+- 👀 I’m looking to collaborate in open source (beginner)
 - 🌱 I’m currently learning Git 
 - 😄 Pronouns: her/she
 
