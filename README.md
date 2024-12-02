@@ -7,3 +7,10 @@
 Mahi-Awasthi/Mahi-Awasthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahi-Awasthi&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-Awasthi&layout=compact&theme=dark)
