@@ -1,16 +1,24 @@
-- 👋 Heyy there, Mahi this side
-- 👀 I’m looking to collaborate in open source (beginner)
-- 🌱 I’m currently learning Git 
-- 😄 Pronouns: her/she
-- 👯Connect with me: https://www.linkedin.com/in/mahiawasthi
-<!---
-Mahi-Awasthi/Mahi-Awasthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Mahi Awasthi
 
+Computer Science Engineering student interested in software development, AI, and open source.
+Currently learning, building, and contributing.
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahi-Awasthi&show_icons=true&hide_title=true&count_private=true&theme=dark)
+## About Me
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-Awasthi&layout=compact&theme=dark)
+- Computer Science Engineering student
+- Exploring open source and looking for beginner-friendly projects
+- Learning Git and GitHub
+- Working with Java, Python, Swift, JavaScript, and SQL
+- Interested in software development and AI
+- Open to collaboration and new opportunities
+
+## Tech Stack
+
+**Languages**
+Java · Python · Swift · JavaScript · SQL
+
+**Frameworks & Technologies**
+React · SwiftUI · Spring Boot · Node.js · Git · GitHub
+
+## Connect With Me
+[LinkedIn](https://www.linkedin.com/in/mahiawasthi)
